@@ -3,7 +3,9 @@ Sexy, flat and a good icon theme.
 Prepared for Milis Linux. https://milislinux.org
 
 İnstallation İnstructions:
+
 Copy the Milix Folder to the location specified below.
+
 Globally: /usr/share/icons/ or in your home folder : ~/.local/share/icons
 
 Milix GTK İcon Theme is designed, developed & maintained by: Oguzhan DUYAR <oguzhan.duyar.ogresyus@gmail.com>
