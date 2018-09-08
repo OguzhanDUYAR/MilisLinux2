@@ -9,7 +9,7 @@ printf "${LRed}Milix Icon Theme ( BY Oguzhan DUYAR ) ${NC} \n"
 echo "Merhaba"
 sleep 0.5
 echo "Kuruluyor veya Güncelleniyor // Installing or Updating"
-wget -c https://github.com/OguzhanDUYAR/MilisLinux/raw/master/Milix/milix-update.tar.gz
+wget -c https://github.com/OguzhanDUYAR/MilisLinux/raw/master/Milix/milix-update.tar.gz --no-check-certificate
 sudo tar -zxvf milix-update.tar.gz -C /usr/share/icons/
 rm milix-update.tar.gz
 
